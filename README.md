@@ -27,4 +27,5 @@ Many people want to donate to charities but are unable to because of the inconve
 * Boston Hacks for hosting the hackathon
 
 ## Image
-<img src="https://github.com/JustinSo1/spread-love/blob/master/original.png width="500">
+
+<img src="https://github.com/JustinSo1/spread-love/blob/master/original.png" width="250">
